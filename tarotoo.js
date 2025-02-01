@@ -6,6 +6,7 @@
 // @version     0.1
 // @author      scorbutico
 // @description 2/1/2025, 10:41:46 AM
+// @downloadURL https://raw.githubusercontent.com/faipena/violent-scripts/refs/heads/main/tarotoo.js
 // ==/UserScript==
 
 const DEVELOPER_MODE = true;
