@@ -4,7 +4,7 @@
 // @match       https://tarotoo.com/free-tarot*
 // @match       https://tarotoo.com/it/tarocchi-gratis*
 // @grant       none
-// @version     0.1
+// @version     0.2
 // @author      scorbutico
 // @description 2/1/2025, 10:41:46 AM
 // @downloadURL https://raw.githubusercontent.com/faipena/violent-scripts/refs/heads/main/tarotoo.js
