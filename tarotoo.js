@@ -2,6 +2,7 @@
 // @name        GodzillaZ Tarotoo+
 // @namespace   Violentmonkey Scripts
 // @match       https://tarotoo.com/free-tarot*
+// @match       https://tarotoo.com/it/tarocchi-gratis*
 // @grant       none
 // @version     0.1
 // @author      scorbutico
