@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        GodzillaZ Tarotoo+
+// @name        scaravaggi0 Tarotoo+
 // @namespace   Violentmonkey Scripts
 // @match       https://tarotoo.com/free-tarot*
 // @match       https://tarotoo.com/it/tarocchi-gratis*
@@ -7,7 +7,7 @@
 // @version     0.3.1
 // @author      faipena
 // @description 2/1/2025, 10:41:46 AM
-// @downloadURL https://raw.githubusercontent.com/faipena/violent-scripts/refs/heads/main/tarotoo.js
+// @downloadURL https://raw.githubusercontent.com/faipena/violent-scripts/refs/heads/scaravaggi0/tarotoo.js
 // ==/UserScript==
 
 const cardsText = [
