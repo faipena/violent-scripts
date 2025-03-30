@@ -4,7 +4,7 @@
 // @match       https://tarotoo.com/free-tarot*
 // @match       https://tarotoo.com/it/tarocchi-gratis*
 // @grant       none
-// @version     0.3
+// @version     0.3.1
 // @author      faipena
 // @description 2/1/2025, 10:41:46 AM
 // @downloadURL https://raw.githubusercontent.com/faipena/violent-scripts/refs/heads/main/tarotoo.js
@@ -12,18 +12,14 @@
 
 const cardsText = [
   "Kinderata con Michel",
-  "Chiama il maestro Pannofino",
   "Credi nel 💜 delle carte",
   "Cosa farebbe Noemi? 🧙‍♀️",
   "Exurgit MAGICA EUROPA",
   "FAI PENA",
-  "Bebebe",
-  "Dario 🙏 ci manchi",
-  "Potresti essere il prossimo young pannofino",
-  "Ne vero?",
   "🐝 AIUTO 🐝",
   "  ⃤ 👁️",
   "A Giugno",
+  "Layla crede in te",
 ];
 
 const $ = selector => (document.querySelector(selector));
@@ -61,7 +57,7 @@ function run() {
   tarotManager.tipsManager.tipsElement.style.display = "none";
   tarotManager.tipsManager.asideAdElement.style.display = "none";
   $("#header").remove();
-  $(".breadcrumbs").textContent = "GodzillaZ: Tarologia E-VO-LU-TI-VA";
+  $(".breadcrumbs").textContent = "scaravaggi0: Tarologia E-VO-LU-TI-VA";
   const randomizedTexts = shuffle(cardsText);
   $("#state-default div h6").textContent = randomizedTexts[0];
   $("#state-ai div h6").textContent = randomizedTexts[1];
