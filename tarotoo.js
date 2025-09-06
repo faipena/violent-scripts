@@ -4,7 +4,7 @@
 // @match       https://tarotoo.com/free-tarot*
 // @match       https://tarotoo.com/it/tarocchi-gratis*
 // @grant       none
-// @version     0.3.1
+// @version     0.3.2
 // @author      faipena
 // @description 2/1/2025, 10:41:46 AM
 // @downloadURL https://raw.githubusercontent.com/faipena/violent-scripts/refs/heads/scaravaggi0/tarotoo.js
@@ -20,6 +20,16 @@ const cardsText = [
   "  ⃤ 👁️",
   "A Giugno",
   "Layla crede in te",
+  "Spenga lo stereo",
+  "Beva un bel bicchiere di acqua fresca",
+  "Apra la finestra, lasci perdere",
+  "Bella e fatta bene",
+  "Si scara",
+  "Non ne ussiremo mai",
+  "Fallo per Otelma",
+  "GAS",
+  "SUPER GAASS",
+  "O GRANDE PIRAMIDE"
 ];
 
 const $ = selector => (document.querySelector(selector));
